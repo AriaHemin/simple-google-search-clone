@@ -1,0 +1,56 @@
+#textPlace {
+    width: 70vw; 
+    height: 4.2vh;
+    min-height: 20px;
+    max-width: 500px;
+
+    border-color: white;
+    border-top: white;    
+    border-left: white;
+
+    border-radius: 30px;
+
+}
+
+#searchImg{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+#container{
+    display: flex;
+    align-items: center;
+    
+    
+    max-width: 600px;
+        
+    background-color: white;
+    border-radius: 30px;
+
+    height: 50px;
+    width: 80vw;
+
+}
+
+#outermost{
+    margin-top: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-direction: column;
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#googleimg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
